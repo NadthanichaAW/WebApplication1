@@ -16,4 +16,5 @@ int main()
 		tang = (kon*249)-(249*x);
 		printf("%d",tang);
 	}
+return 0;
 }
